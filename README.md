@@ -39,7 +39,7 @@ cd house-price-prediction-app
 
 streamlit run app.py
 
-
+---
 
 ## 📬 Contact
 For suggestions or questions, feel free to reach out.
