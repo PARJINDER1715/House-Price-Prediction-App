@@ -36,7 +36,7 @@ For suggestions or questions, feel free to reach out.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/house-price-prediction-app.git
+git clone https://github.com/PARJINDER1715/house-price-prediction-app.git
 cd house-price-prediction-app
 
 2. Run the app:
