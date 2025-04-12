@@ -24,6 +24,10 @@ This project is a **web-based machine learning app** that predicts the price of 
 - **Serialization**: joblib (for model & scaler)
 
 ---
+## 📬 Contact
+For suggestions or questions, feel free to reach out.
+- Project developed by **Parjinder Singh**  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/parjindersingh/)
 
 ---
 
@@ -41,7 +45,3 @@ streamlit run app.py
 
 ---
 
-## 📬 Contact
-For suggestions or questions, feel free to reach out.
-- Project developed by **Parjinder Singh**  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/parjindersingh/)
