@@ -38,3 +38,10 @@ cd house-price-prediction-app
 2. Run the app:
 
 streamlit run app.py
+
+
+
+## 📬 Contact
+For suggestions or questions, feel free to reach out.
+- Project developed by **Parjinder Singh**  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/parjindersingh/)
